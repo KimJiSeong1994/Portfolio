@@ -22,8 +22,8 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 3. **수행 업무** -
     * NLP(Natural Language Processing) 를 활용한 단어 관계 도출 (Word2Vec)
     * Structured Data + Text Data 를 결합한 Prediction Model
-    * 1) Text Data(학생 상담 내역 기록 등) 기반의 예측 Modeling (Convolutional Neural Network)
-    * 2) Structured Data(학생정보, 자기평가 지표, 이수내역 등)를 기반한 예측 Modeling 
+    * - Text Data(학생 상담 내역 기록 등) 기반의 예측 Modeling (Convolutional Neural Network)
+    * - Structured Data(학생정보, 자기평가 지표, 이수내역 등)를 기반한 예측 Modeling 
 4. **성과** - 
 
 ---
