@@ -12,18 +12,18 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Projects
 
-**원산지 위반 단속 패턴 종합 분석 및 AI를 활용한 농산물 단속추천 서비스**<br>국립농산물 품질관리원
+**딥러닝을 이용한 학생 중도탈락 예측**<br>경남대학교
 
-1. **기간** 
-2. **목적** - 데이터 종합분석을 통하여 다양한 조사·단속 패턴을 밝혀 향후 원산지 단속추천 시스템 개발을 위한 기반 구축 
+1. **기간** - 2019. 7 - 2019. 8
+2. **목적** - 매년 증가하는 중도탈락율 낮추기 위해 예측에 기초한 선제 관리를 목적으로 함  
 3. **사용 기술**
-    * 파이썬, R, QGIS
-    * Data Crawling, GIS Density Analysis, Machine Learning, Deep Learning  
+    * R, Keras
+    * Data Crawling, Machine Learning, Deep Learning, NLP   
 3. **수행 업무** -
-    * 설문지, 보고서, 로그 데이터 등과 같은 프로젝트 관련 정형/비정형 데이터 전처리
-    * 데이터 분석 및 모형 개발 기획 및 총괄
-    * 데이터 분석 및 모형 파이프라인 구축
-    * 
+    * NLP(Natural Language Processing) 를 활용한 단어 관계 도출 (Word2Vec)
+    * Structured Data + Text Data 를 결합한 Prediction Model
+    * 1) Text Data(학생 상담 내역 기록 등) 기반의 예측 Modeling (Convolutional Neural Network)
+    * 2) Structured Data(학생정보, 자기평가 지표, 이수내역 등)를 기반한 예측 Modeling 
 4. **성과** - 
 
 ---
