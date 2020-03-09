@@ -116,12 +116,6 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 4. **성과** - 서울시 빅데이터 캠퍼스, 한국소비자원의 `Mahcine Learning을 활용한 민원분류 모델`의 기초자료 
 
 ---
-## Activity
-* <a href = "https://github.com/KimJiSeong1994/Data-Analysis_Study_Changwon"><b>Changwon Data Analysis Study Group</b></a>
-* <a href = "https://github.com/KimJiSeong1994/kaggle-study"><b>Kaggle Korea Changwon study Group</b></a>
-* <a href = "https://github.com/KimJiSeong1994/Kaggle_PJT"><b> Kaggle Study </b></a>
-* <a href = "https://github.com/KimJiSeong1994/BOOK"><b>Book</b></a>
----
 ## Lectures
 
 * **2019년**
@@ -144,9 +138,14 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
      * [IMDB 영화리뷰 감정 분석을 통한 파이썬 텍스트 분석과 자연어 처리 - Inflearn](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/%5B%20NLP%20%5D%20IMDB%20%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC.pdf)
      * [파이썬 기초 교육 수료 - 한국 데이터산업진흥원](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/%5B%20%ED%95%9C%EA%B5%AD%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%20%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EA%B5%90%EC%9C%A1%20%EC%88%98%EB%A3%8C.pdf)
 
+---
 
-    
-    
+## Activity
+* <a href = "https://github.com/KimJiSeong1994/Data-Analysis_Study_Changwon"><b>Changwon Data Analysis Study Group</b></a>
+* <a href = "https://github.com/KimJiSeong1994/kaggle-study"><b>Kaggle Korea Changwon study Group</b></a>
+* <a href = "https://github.com/KimJiSeong1994/Kaggle_PJT"><b> Kaggle Study </b></a>
+* <a href = "https://github.com/KimJiSeong1994/BOOK"><b>Book</b></a>
+
 ---
 
 ## Programming Languages
