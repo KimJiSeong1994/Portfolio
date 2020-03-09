@@ -116,7 +116,13 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 4. **성과** - 서울시 빅데이터 캠퍼스, 한국소비자원의 `Mahcine Learning을 활용한 민원분류 모델`의 기초자료 
 
 ---
+## Activity
+Changwon Data Analysis Study Group
+> * <a href = "https://github.com/KimJiSeong1994/Data-Analysis_Study_Changwon"><b>Git-hub</b></a>
+Kaggle Korea Changwon study Group
+> * <a href = "https://github.com/KimJiSeong1994/kaggle-study"><b>Git-hub</b></a>
 
+---
 ## Lectures
 
 * **2019년**
