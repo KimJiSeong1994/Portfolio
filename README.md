@@ -18,7 +18,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 2. **목적** - 매년 증가하는 중도탈락율 낮추기 위해 예측에 기초한 선제 관리를 목적으로 함  
 3. **사용 기술**
     * R, Keras
-    * Data Crawling, Machine Learning, Deep Learning, NLP   
+    * Data Crawling, Machine Learning, Deep Learning, Wor2Vec   
 3. **수행 업무** 
     * NLP(Natural Language Processing) 를 활용한 단어 관계 도출 (Word2Vec)
     * Structured Data + Text Data 를 결합한 Prediction Model
