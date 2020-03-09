@@ -38,7 +38,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * Distributed Computing System(Hadoop)을 활용한 Data pre-processing (서울시 유동인구 Data 2018. 10 - 2018. 12 (Obs. : 3억건)  
     * Kernel Density Estimation modeling 
     * 최적입지 분석
-4. **성과** - 서울시의회의 흡연시설 설치 관련 기초자료로 활용
+4. **성과** - `서울시의회의 흡연시설 설치 관련 법안`의 기초자료로 활용
 
 >  > ---
 
