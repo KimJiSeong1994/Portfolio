@@ -12,6 +12,20 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Projects
 
+**육군정비창 창정비 원가 및 CWT분석 솔루션**<br>육군정비창 
+1. **기간** - 2019. 10 - 2019. 12
+2. **목적** - 정비창의 원가 비용 정보를 효율적 파악, 분석 및 시각화 솔루션 제공 
+3. **사용 기술**
+    * R, Python
+    * Statistical Analysis
+3. **수행 업무** 
+    * DB Data handling
+    * 군정비 성과관리지표인 CWT(사용자 대기기간, Customer Wati Time) 분석을 통한 목표성과 관리 분석
+    * 정비창의 원비 뵈용 정보를 효율적 파악, 분석을 위한 Dashboard 제작
+4. <b>Git-hub</b>
+
+>  > ---
+
 **딥러닝을 이용한 학생 중도탈락 예측**<br>경남대학교 
 1. **기간** - 2019. 7 - 2019. 8
 2. **목적** - 매년 증가하는 중도탈락율 낮추기 위해 예측에 기초한 선제 관리를 목적으로 함  
