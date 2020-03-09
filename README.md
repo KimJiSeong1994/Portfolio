@@ -22,7 +22,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 1. **기간** - 2019. 9 - 2019. 12
 2. **목적** - 데이터분석을 통해 위반 단속 패턴 도출, 향후 `원산지 단속추천 시스템` 개발을 위한 사전기반 구축 목표 
 3. **사용 기술**
-    * R, Python, QGIS
+    * R, Python, Tensorflow, Keras, QGIS
     * Data Crawling, Machine Learning, Deep Learnin, Kernel Density Estimation
 3. **수행 업무** 
     * 조사정보의 시계열 자료와 지역 데이터를 기반으로 지역 정보 분석, 통계분석, Machine Learning, Deep learning 등 심층분석 실시
@@ -45,6 +45,20 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 >  > ---
 
+**시각장애인들을 위한 Smart Glasses 'Eye-B Project'**<br>인공지능 데이터셋 경진대회 (주관 : NIA, SELECTSTAR)
+1. **기간** - 2020. 1 - 2020. 2
+2. **목적** - Smart Glasses를 활용하여 거리의 위험요소를 인지, 시각장애인이 스스로 위험요소를 감지 할 수 있도록 도움  
+3. **사용 기술**
+    * R, OpenCV, Tensorflow, Keras
+    * Deep Learning, Object Detection, YOLO, Data Crawling
+3. **수행 업무** 
+    * R, OpenCV tool을 활용한 Object Detection model 구현 
+    * Train Image Crawling (Bollard, 점자블록, 거시 시설물, 길거리 이미지 등)
+    * Object Detection Accuracy 향상을 위해 Google ImageDataset API의 이미지를 model에 학습하는 작업 수행  
+4. <a href = "https://github.com/KimJiSeong1994/Artificial-Intelligence_Dataset_Comp._PJT"><b>Git-hub</b></a>
+
+>  > ---
+
 **AI 텍스트 마이닝 감성분석을 통한 채용박람회 활성화 방안**<br>금융산업공익재단 공모전
 1. **기간** - 2019. 11 - 2019. 12
 2. **목적** - 채용박람회 단점을 해결, 단순 채용정보 획득을 넘은 개인의 특성을 반영한 맞춤형 온라인 채용박람회 제안
@@ -62,7 +76,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 1. **기간** - 2019. 7 - 2019. 8
 2. **목적** - 매년 증가하는 중도탈락율 낮추기 위해 예측에 기초한 선제 관리를 목적으로 함  
 3. **사용 기술**
-    * R, Keras
+    * R, Tensorflow, Keras
     * Data Crawling, Machine Learning, Deep Learning, NLP   
 3. **수행 업무** 
     * NLP(Natural Language Processing) 기술을 활용한 단어 관계 도출 (Word2Vec)
