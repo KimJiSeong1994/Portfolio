@@ -26,6 +26,21 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * - Structured Data(학생정보, 자기평가 지표, 이수내역 등)를 기반한 Prediction Modeling 
 4. <b>Git-hub</b>
 
+
+
+**사회적 갈들 완화를 위한 최적 흡연시설 입지 선정**<br>서울시 빅데이터 캠퍼스
+
+1. **기간** - 2019. 1 - 2019. 2
+2. **목적** - 유동인구 데이터를 활용한 최적 흡연시설 입지 도출하여 흡연 비흡연 인구간의 갈등을 완화를 목적으로 함 
+3. **사용 기술**
+    * R, QGIS, Hadoop(Distributed Computing)
+    * Kernel Density Estimation   
+3. **수행 업무** 
+    * Distributed Computing System(Hadoop)을 활용한 Data pre-processing (서울시 유동인구 Data 2018. 10 - 2018. 12 (Obs. : 3억건)  
+    * Kernel Density Estimation modeling 
+    * 최적입지 분석
+4. **성과** - 서울시의회의 흡연시설 설치 관련 기초자료로 활용
+
 ---
 
 ## Lectures
