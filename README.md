@@ -53,7 +53,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * LDA algorithm 을 활용한 주요 Topic 파악
     * 의미연결 분석으로 주요 민원 내용의 관계 파악 
     * Topic model과 의미연결 분석에 기초한 민원 Classification-logic modeling
-4. **성과** - 서울시 빅데이터 캠퍼스, 한국소비자원의 'Mahcine Learning을 활용한 민원분류 모델'의 기초자료 
+4. **성과** - 서울시 빅데이터 캠퍼스, 한국소비자원의 `Mahcine Learning을 활용한 민원분류 모델`의 기초자료 
 
 ---
 
