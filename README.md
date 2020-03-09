@@ -35,7 +35,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * DB Data handling
     * 군정비 성과관리지표인 CWT(사용자 대기기간, Customer Wati Time) 분석을 통한 목표성과 관리 분석
     * 정비창의 원비 뵈용 정보를 효율적 파악, 분석을 위한 Dashboard 제작
-4. <b>Git-hub</b>
+4. <a href = "https://github.com/KimJiSeong1994/Portfolio/blob/master/Project/%E3%80%8C%EC%9B%90%EC%82%B0%EC%A7%80%20%EC%9C%84%EB%B0%98%C2%B7%EB%8B%A8%EC%86%8D%20%ED%8C%A8%ED%84%B4%20%EC%A2%85%ED%95%A9%EB%B6%84%EC%84%9D%E3%80%8D%20%EC%82%AC%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf"> <b>Git-hub</b></a>
 
 >  > ---
 
