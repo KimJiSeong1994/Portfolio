@@ -24,7 +24,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * Structured Data + Text Data 를 결합한 Prediction Model
     * - Text Data(학생 상담 내역 기록 등) 기반의 Prediction Modeling (Convolutional Neural Network)
     * - Structured Data(학생정보, 자기평가 지표, 이수내역 등)를 기반한 Prediction Modeling 
-4. **성과** - `Git-hub`
+4. <b>Git-hub</b>
 
 ---
 
