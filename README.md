@@ -12,8 +12,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Projects
 
-**딥러닝을 이용한 학생 중도탈락 예측**<br>경남대학교
-
+**딥러닝을 이용한 학생 중도탈락 예측**<br>경남대학교 
 1. **기간** - 2019. 7 - 2019. 8
 2. **목적** - 매년 증가하는 중도탈락율 낮추기 위해 예측에 기초한 선제 관리를 목적으로 함  
 3. **사용 기술**
@@ -26,7 +25,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * - Structured Data(학생정보, 자기평가 지표, 이수내역 등)를 기반한 Prediction Modeling 
 4. <b>Git-hub</b>
 
-
+>  > ---
 
 **사회적 갈들 완화를 위한 최적 흡연시설 입지 선정**<br>서울시 빅데이터 캠퍼스
 
