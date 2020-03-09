@@ -45,6 +45,19 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 >  > ---
 
+**AI 텍스트 마이닝 감성분석을 통한 채용박람회 활성화 방안**<br>금융산업공익재단 공모전
+1. **기간** - 2019. 11 - 2019. 12
+2. **목적** - 채용박람회 단점을 해결, 단순 채용정보 획득을 넘은 개인의 특성을 반영한 맞춤형 온라인 채용박람회 제안
+3. **사용 기술**
+    * R
+    * Data Crawling, Machine Learning, NLP   
+3. **수행 업무** 
+    * 구직자 분석을 위한 Data Crawling, Data pre-processing
+    * Natural Language Processing을 통한 Sentiment Analysis
+4. <a href = "https://github.com/KimJiSeong1994/Competition_Emp._IDea/blob/master/%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%9E%85%EC%84%A0.pdf"><b>Git-hub</b></a>
+
+>  > ---
+
 **딥러닝을 이용한 학생 중도탈락 예측**<br>경남대학교 
 1. **기간** - 2019. 7 - 2019. 8
 2. **목적** - 매년 증가하는 중도탈락율 낮추기 위해 예측에 기초한 선제 관리를 목적으로 함  
@@ -52,7 +65,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * R, Keras
     * Data Crawling, Machine Learning, Deep Learning, NLP   
 3. **수행 업무** 
-    * NLP(Natural Language Processing) 를 활용한 단어 관계 도출 (Word2Vec)
+    * NLP(Natural Language Processing) 기술을 활용한 단어 관계 도출 (Word2Vec)
     * Structured Data + Text Data 를 결합한 Prediction Model
     * - Text Data(학생 상담 내역 기록 등) 기반의 Prediction Modeling (Convolutional Neural Network)
     * - Structured Data(학생정보, 자기평가 지표, 이수내역 등)를 기반한 Prediction Modeling 
