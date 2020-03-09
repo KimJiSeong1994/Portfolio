@@ -12,6 +12,19 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Projects
 
+**원산지 종합 분석 및 단속추천 선제대응 서비스 개발**<br>국립농산물품질관리원
+1. **기간** - 2019. 9 - 2019. 12
+2. **목적** - 데이터분석을 통해 위반 단속 패턴 도출, 향후 `원산지 단속추천 시스템` 개발을 위한 사전기반 구축 목표 
+3. **사용 기술**
+    * R, Python, QGIS
+    * Data Crawling, Machine Learning, Deep Learnin, Kernel Density Estimation
+3. **수행 업무** 
+    * 조사정보의 시계열 자료와 지역 데이터를 기반으로 지역 정보 분석, 통계분석, Machine Learning, Deep learning 등 심층분석 실시
+    * 범법자의 유형 및 위반이 발생하는 지역적 요인 도출
+    * 지역, 환경, 업주, 업체특성, 외부요인 변수 등 55개 변수를 사용하여 잠재 위반가능성이 높은 업체, 지역 분석 
+4. <b>Git-hub</b>
+
+>  > ---
 **육군정비창 창정비 원가 및 CWT분석 솔루션**<br>육군정비창 
 1. **기간** - 2019. 10 - 2019. 12
 2. **목적** - 정비창의 원가 비용 정보를 효율적 파악, 분석 및 시각화 솔루션 제공 
@@ -31,7 +44,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 2. **목적** - 매년 증가하는 중도탈락율 낮추기 위해 예측에 기초한 선제 관리를 목적으로 함  
 3. **사용 기술**
     * R, Keras
-    * Data Crawling, Machine Learning, Deep Learning, Word2Vec   
+    * Data Crawling, Machine Learning, Deep Learning, NLP   
 3. **수행 업무** 
     * NLP(Natural Language Processing) 를 활용한 단어 관계 도출 (Word2Vec)
     * Structured Data + Text Data 를 결합한 Prediction Model
