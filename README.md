@@ -30,8 +30,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * Permutation Importance 활용한 중요변수 추정 
     * 승자 에측 모델링 (LightGBM algorithm model) 및 모델성능 최적화(Bayesian Optimization algorithm) 
     * 최종등수 : <b>30</b>/667 `(상위 4.4%)`, AUC = 0.66702
-5. <a href = "https://github.com/KimJiSeong1994/Game_Behavior_DataAnalysis_Comp."> <b>Git-hub</b></a>
-6. <a href = "https://dacon.io/competitions/official/235583/leaderboard/"> <b>DACON</b></a>
+5. <a href = "https://github.com/KimJiSeong1994/Game_Behavior_DataAnalysis_Comp."> <b>Git-hub</b></a>, <a href = "https://dacon.io/competitions/official/235583/leaderboard/"> <b>DACON</b></a>
 
 >  > ---
 
