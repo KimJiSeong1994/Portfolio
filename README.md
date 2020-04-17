@@ -18,6 +18,23 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Projects
 
+**Game Behavior Data Analysis** <br>DACON
+1. **기간** - 2020. 03 - 2020. 04
+2. **목적** - 게임 플레이어의 행동 패턴 파악 및 분석을 통한 승자 예측 모델링
+3. **사용 기술**
+    * R, Python, Tensorflow, Keras
+    * Permutation Importance, Bayesian Optimization, LightGBM
+4. **수행 업무** 
+    * PM(project manager) & TM(techincal manager)  
+    * EDA(exploratory data analysis)를 통한 파생변수 인사이트 도출, Feature Engineering
+    * Permutation Importance 활용한 중요변수 추정 
+    * 승자 에측 모델링 (LightGBM algorithm model) 및 모델성능 최적화(Bayesian Optimization algorithm) 
+    * 최종등수 : <b>30</b>/667 `(상위 4.4%)`, AUC = 0.66702
+5. <a href = "https://github.com/KimJiSeong1994/Game_Behavior_DataAnalysis_Comp."> <b>Git-hub</b></a>
+6. <a href = "https://dacon.io/competitions/official/235583/leaderboard/"> <b>DACON</b></a>
+
+>  > ---
+
 **원산지 종합 분석 및 단속추천 선제대응 서비스 개발**<br>국립농산물품질관리원
 1. **기간** - 2019. 9 - 2019. 12
 2. **목적** - 데이터분석을 통해 위반 단속 패턴 도출, 향후 `원산지 단속추천 시스템` 개발을 위한 사전기반 구축 목표 
