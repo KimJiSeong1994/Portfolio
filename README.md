@@ -133,7 +133,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 >  > ---
 <b>창원시 화재 위험지 예측</b><br>동남지방통계청 공모전
-1. **기간** - 2017. 8 - 2017. 10
+1. **기간** - 2018. 9 - 2018. 10
 2. **목적** - 화재 위험지 예측을 통한 선제적 관리 시스템 제안 
 3. **사용 기술**
     * R, QGIS
