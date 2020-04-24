@@ -131,6 +131,20 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * Topic model과 의미연결 분석에 기초한 민원 Classification-logic modeling
 4. **성과** - 서울시 빅데이터 캠퍼스, 한국소비자원의 `Mahcine Learning을 활용한 민원분류 모델`의 기초자료 
 
+>  > ---
+<b>창원시 화재 위험지 예측</b><br>동남지방통계청 공모전
+1. **기간** - 2017. 8 - 2017. 10
+2. **목적** - 화재 위험지 예측을 통한 선제적 관리 시스템 제안 
+3. **사용 기술**
+    * R, QGIS
+    * Kernel Density Estimation, Statistical Analysis(Multiple Regression model), Data Crawling   
+3. **수행 업무** 
+    * 일일소방보고 문서의 화재 정보(위치, 원인, 피해 규모 등) 에 대한 Data Crawling (창원시 기준 집계 통계자료 없음으로 직접 수집함)
+    * 위험요소(건물소재, 건축물 구조, 소방시설 노후도, 소방시설 관리유무, 인근 소방서, 소방차 불가/불편 도로 정보 등)에 대한 Kernel Density Estimation
+    * Overlapping을 통한 화제위험 지도 지도 형성  
+    * Statistical Analysis을 통한 위험 정도 예측 
+4. <b>Git-hub</b>
+
 ---
 ## Lectures
 
