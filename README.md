@@ -151,7 +151,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 * **2019년**
     * <a href = "https://github.com/KimJiSeong1994/lecture/tree/master/crawling_lecture"> How to Data Crawling with R Selenium  - Kyungnam University sociology (11. 27) </a>
     * <a href = "https://github.com/KimJiSeong1994/lecture/tree/master/TidyData_lecture"> How to tidying Data with R - Kyungnam University sociology (12. 5) </a>
-
+    * <a href = "https://github.com/KimJiSeong1994/lecture/tree/master/R%20for%20DataAnalysis"> R for DataAnalysis </a>
 ---
 
 ## Certification
