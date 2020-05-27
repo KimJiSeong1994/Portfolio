@@ -56,7 +56,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 3. **수행 업무** 
     * DB Data handling
     * 군정비 성과관리지표인 CWT(사용자 대기기간, Customer Wait Time) 분석을 통한 목표성과 관리 분석
-    * 정비창의 원비 뵈용 정보를 효율적 파악, 분석을 위한 Dashboard 제작
+    * 정비창의 원비 비용 정보를 효율적 파악, 분석을 위한 Dashboard 제작
 4. <b>Git-hub</b>
 
 >  > ---
