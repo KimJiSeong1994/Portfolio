@@ -24,7 +24,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 3. **사용 기술**
     *Python, R, Tensorflow, Keras, OpenCV 
     *Object Detection, Transfer learning, YOLO version 3, LRCN(Long-term Recurrent Convolutional Networks)model 
-4. **수행 업부**
+4. **수행 업무**
     * PM(Project Manger) & TM(Techincal Manager)
     * pre-train Object API(Google)를 활용한 model Trensfer learning 
     * LRCN model(Long-term Recurrent Convolutional Networks)을 통해 Abnormal behavior 학습 
