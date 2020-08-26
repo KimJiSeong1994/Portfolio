@@ -18,7 +18,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Projects
 
-** Abnormal behavior Object detection <br> Kyungnam Univ. BigData Center **
+** Abnormal behavior Object detection ** <br> Kyungnam Univ. BigData Center
 1. **기간** - 2020. 04 ~ 
 2. **목적** - 다중 CCTV 영상내 이상행동(폭행)에 대한 감지 및 객채 인식을 통한 추적 
 3. **사용 기술**
