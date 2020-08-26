@@ -18,6 +18,21 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Projects
 
+** Abnormal behavior Object detection <br> Kyungnam Univ. BigData Center 
+1. **기간** - 2020. 04 ~ 
+2. **목적** - 다중 CCTV 영상내 이상행동(폭행)에 대한 감지 및 객채 인식을 통한 추적 
+3. **사용 기술**
+    *Python, R, Tensorflow, Keras, OpenCV 
+    *Object Detection, Transfer learning, YOLO version 3, LRCN(Long-term Recurrent Convolutional Networks)model 
+4. **수행 업부**
+    * PM(Project Manger) & TM(Techincal Manager)
+    * pre-train Object API(Google)를 활용한 model Trensfer learning 
+    * LRCN model(Long-term Recurrent Convolutional Networks)을 통해 Abnormal behavior 학습 
+    * YOLO model을 통해 real-time obeject detection 
+5. <b>Git-hub</b>
+
+>  > ---
+
 **Game Behavior Data Analysis** <br>DACON
 1. **기간** - 2020. 03 - 2020. 04
 2. **목적** - 게임 플레이어의 행동 패턴 파악 및 분석을 통한 승자 예측 모델링
