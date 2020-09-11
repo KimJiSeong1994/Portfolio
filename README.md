@@ -190,6 +190,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Activity
 * <a href = "https://github.com/KimJiSeong1994/Data-Analysis_Study_Changwon"><b>Changwon Data Analysis Study Group</b></a>
+* <a href = "https://github.com/KimJiSeong1994/Changwon_DataAnalysis_Study_Group"> Changwon_DataAnalysis_Study_Group 2 </a>
 * <a href = "https://github.com/KimJiSeong1994/kaggle-study"><b>Kaggle Korea Changwon study Group</b></a>
 * <a href = "https://github.com/anos12/OpenCV_Study"><b>OpenCV Study Group</b></a>
 * <a href = "https://github.com/KimJiSeong1994/Kaggle_PJT"><b> Kaggle Study </b></a>
