@@ -12,7 +12,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Interests
 
-`Social Statistics`, `SNA(Social Network Analysis)`, `NLP(natural language processing)`, `DL(Deep Learning)`
+`Social Statistics`, `SNA(Social Network Analysis)`, `NLP(natural language processing)`, `NLU(natural language understanding)`. `NLG(natural language generation)`, `Text Summarization`
 
 ---
 
