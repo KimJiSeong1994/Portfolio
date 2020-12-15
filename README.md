@@ -217,10 +217,10 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 <table>
     <tr>
         <th>능숙하게 다룰 수 있는 언어</th>
-        <th>능숙하진 않지만 다룰 수 있는 언어</th>
+<!--         <th>능숙하진 않지만 다룰 수 있는 언어</th> -->
     </tr>
     <tr>
-        <td><img src="https://www.r-project.org/logo/Rlogo.svg" height="50px"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50px"></td>
-        <td></td>
+        <td><img src="https://www.r-project.org/logo/Rlogo.svg" height="50px"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48px"></td>
+<!--         <td></td> -->
     </tr>
 <table>
