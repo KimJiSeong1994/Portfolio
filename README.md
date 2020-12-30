@@ -19,7 +19,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 ## Projects
 
 **Text summarization** <br> Kyungnam Univ. BigData Center
-1. **기간** - 2020. 04 ~ 
+1. **기간** - 2020. 10 ~ 
 2. **목적** - 회의 등에서 발생하는 음성데이터 문서 생성 및 추출요약/생성요약   
 3. **사용 기술**
     * Python, Tensorflow, Keras 
@@ -32,7 +32,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 >  > ---
 
 **Abnormal behavior Object detection** <br> Kyungnam Univ. BigData Center
-1. **기간** - 2020. 04 ~ 
+1. **기간** - 2020. 10 ~ 
 2. **목적** - 다중 CCTV 영상내 이상행동(폭행)에 대한 감지 및 객채 인식을 통한 추적 
 3. **사용 기술**
     * Python, R, Tensorflow, Keras, OpenCV 
