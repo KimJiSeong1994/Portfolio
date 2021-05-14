@@ -46,6 +46,19 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 >  > ---
 
+**소상공인을 위한 생활밀착형 챗봇 개발** <br> Kyungnam Univ. BigData center
+1. **기간** - 2020. 08 ~ 2020. 12. 
+2. **목적** - 사회적 경제 순환 시스템 지원을 위한 커뮤니티 플랫폼 챗봇개발 및 커뮤니티 데이터를 통한 갈등 분석
+3.**사용 기술** 
+   * Python, R, Tensorflow, Keras, NLP, NLU, NLG
+   * Intent classification for CNN-1D, Bi-LSTM, Transformer(Attention based Seq2Seq architectuer)
+4. **수행 업무**
+   * BERT(Bidirectional Encoder Representations from Transformers) model을 통한 감성분류
+   * CNN-1D model을 통한 대화 Intent(의도) 분류
+   * Bidirectional-LSTM model을 통한 문장 내 개체명 인식
+   * Sequence to Sequence architecture 기반의 Transformer model을 활용한 답변 문장 생성
+   
+>  > ---
 **Game Behavior Data Analysis** <br>DACON
 1. **기간** - 2020. 03 - 2020. 04
 2. **목적** - 게임 플레이어의 행동 패턴 파악 및 분석을 통한 승자 예측 모델링
