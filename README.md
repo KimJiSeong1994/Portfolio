@@ -49,7 +49,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 **소상공인을 위한 생활밀착형 챗봇 개발** <br> Kyungnam Univ. BigData center
 1. **기간** - 2020. 08 ~ 2020. 12. 
 2. **목적** - 사회적 경제 순환 시스템 지원을 위한 커뮤니티 플랫폼 챗봇개발 및 커뮤니티 데이터를 통한 갈등 분석
-3.**사용 기술** 
+3. **사용 기술** 
    * Python, R, Tensorflow, Keras, NLP, NLU, NLG
    * Intent classification for CNN-1D, Bi-LSTM, Transformer(Attention based Seq2Seq architectuer)
 4. **수행 업무**
