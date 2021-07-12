@@ -5,22 +5,22 @@
 Repository contained portfolio of data anlaysis, machine learning & deep learning project and others.
 
 ## Careers
-* **DataResearcher@BigValue** : 2021. 06 - 현재
+* **AI Researcher@BigValue** : 2021. 06 - 현재
 * **DataAnalyst@KyungnamUniv. BigData center** : 2019. 9 - 2021. 06
 * **Intern@서울시 빅데이터 캠퍼스** : 2018. 7 - 2018. 8, 2019. 1 - 2019. 2
-* **Intern@ACORN MARKETING & RESEARCH CONSULTANTS (HK) LIMITED, KOREA BRANCH** : 2018. 1 - 2018. 2
+* **Intern@ACORN MARKETING & RESEARCH CONSULTANTS(HK) LIMITED, KOREA BRANCH** : 2018. 1 - 2018. 2
 * **Intern@서울 혁신센터 사회혁신 리서치랩** : 2017. 7 - 2017. 8
 
 ## Interests
 
-`Social Statistics`, `SNA(Social Network Analysis)`, `NLP(natural language processing)`, `NLU(natural language understanding)`. `NLG(natural language generation)`, `Text Summarization`
+`Statistics`, `SNA(Social Network Analysis)`, `NLU(natural language understanding)`, `NLG(natural language generation)`, `Text Summarization`, `Graph Neural Networks`
 
 ---
 
 ## Projects
 
 **Text summarization** <br> Kyungnam Univ. BigData Center
-1. **기간** - 2020. 10 ~ 
+1. **기간** - 2020. 10 ~ 2021. 06
 2. **목적** - 회의 등에서 발생하는 음성데이터 문서 생성 및 추출요약/생성요약   
 3. **사용 기술**
     * Python, Tensorflow, Keras 
@@ -33,7 +33,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 >  > ---
 
 **Abnormal behavior Object detection** <br> Kyungnam Univ. BigData Center
-1. **기간** - 2020. 10 ~ 
+1. **기간** - 2020. 10 ~ 2021. 06
 2. **목적** - 다중 CCTV 영상내 이상행동(폭행)에 대한 감지 및 객채 인식을 통한 추적 
 3. **사용 기술**
     * Python, R, Tensorflow, Keras, OpenCV 
