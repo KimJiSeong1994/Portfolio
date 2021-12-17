@@ -203,17 +203,13 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 * **Google**
     * [Launching into Machine Learning](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/Launching%20into%20Machine%20Learning%20-%20Google.pdf)
     * [Production Machine Learning Systems](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/Production%20Machine%20Learning%20Systems%20-%20Google.pdf)
-    * [머신러닝 야학 (생활코딩)](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/%EA%B5%AC%EA%B8%80%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%95%BC%ED%95%99%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf)
+
 * **POSTECH** 
     * [Advanced R 프로그래밍 (R 고급과정)](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/Advanced%20R%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20(R%20%EA%B3%A0%EA%B8%89%EA%B3%BC%EC%A0%95)%20-%20POSTECH.pdf)
     * [머신러닝 기법과 R 프로그래밍(고급Ⅰ)](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B2%95%EA%B3%BC%20R%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(%EA%B3%A0%EA%B8%89%E2%85%A0)%20-%20POSTECH.pdf)
     * [빅 데이터 분석과 R 프로그래밍(기초Ⅱ)](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/%EB%B9%85%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B3%BC%20R%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(%EA%B8%B0%EC%B4%88%E2%85%A1)%20-%20POSTECH.pdf)
 * **etc.**
      * [Learning Data Science With Kaggle Practice - Edwith](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/Learning%20Data%20Science%20With%20Kaggle%20Practice.pdf)
-     * [IMDB 영화리뷰 감정 분석을 통한 파이썬 텍스트 분석과 자연어 처리 - Inflearn](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/%5B%20NLP%20%5D%20IMDB%20%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC.pdf)
-     * [R로 하는 네트워크 분석 - Inflearn](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/%5B%20Inflearn%20%5D%20Network%20Anaysis%20with%20R.pdf)
-     * [파이썬 기초 교육 수료 - 한국 데이터산업진흥원](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/%5B%20%ED%95%9C%EA%B5%AD%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90%20%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EA%B5%90%EC%9C%A1%20%EC%88%98%EB%A3%8C.pdf)
-
 ---
 
 ## Activity
