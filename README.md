@@ -19,7 +19,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Projects
 **소매점포의 점주권 추정 기반의 매출 예측** <br> BigValue
-1. **기간** - 2021. 08 ~ 2022. 04
+1. **기간** - 2021. 10 ~ 2022. 04
 2. **목적** - 소비자 이동편의에 따른 소매점포 매출 예측 및 점주권 생성 모형 연구      
    * 신규점포 입점 점주권 예측 시뮬레이션
    * 경쟁매장 신규/패점시 점주권 예측 시뮬레이션
