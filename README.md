@@ -47,21 +47,6 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 >  > ---
 
-**Abnormal behavior Object detection** <br> Kyungnam Univ. BigData Center
-1. **기간** - 2020. 10 ~ 2021. 06
-2. **목적** - 다중 CCTV 영상내 이상행동(폭행)에 대한 감지 및 객채 인식을 통한 추적 
-3. **사용 기술**
-    * Python, R, Tensorflow, Keras, OpenCV 
-    * Object Detection, Transfer learning, YOLO version 3, LRCN(Long-term Recurrent Convolutional Networks)model 
-4. **수행 업무**
-    * PM(Project Manger) & TM(Techincal Manager)
-    * pre-train Object API(Google)를 활용한 model Trensfer learning 
-    * LRCN model(Long-term Recurrent Convolutional Networks)을 통해 Abnormal behavior 학습 
-    * YOLO model을 통해 real-time obeject detection 
-5. <b>Git-hub</b>
-
->  > ---
-
 **소상공인을 위한 생활밀착형 챗봇 개발** <br> Kyungnam Univ. BigData center
 1. **기간** - 2020. 08 ~ 2020. 12. 
 2. **목적** - 사회적 경제 순환 시스템 지원을 위한 커뮤니티 플랫폼 챗봇개발 및 커뮤니티 데이터를 통한 갈등 분석
@@ -102,19 +87,6 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * 범법자의 유형 및 위반이 발생하는 지역적 요인 도출
     * 지역, 환경, 업주, 업체특성, 외부요인 변수 등 55개 변수를 사용하여 잠재 위반가능성이 높은 업체, 지역 분석 
 4. <a href = "https://github.com/KimJiSeong1994/Portfolio/blob/master/Project/%E3%80%8C%EC%9B%90%EC%82%B0%EC%A7%80%20%EC%9C%84%EB%B0%98%C2%B7%EB%8B%A8%EC%86%8D%20%ED%8C%A8%ED%84%B4%20%EC%A2%85%ED%95%A9%EB%B6%84%EC%84%9D%E3%80%8D%20%EC%82%AC%EC%97%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf"> <b>Git-hub</b></a>
-
->  > ---
-**육군정비창 창정비 원가 및 CWT분석 솔루션**<br>육군정비창 
-1. **기간** - 2019. 10 - 2019. 12
-2. **목적** - 정비창의 원가 비용 정보를 효율적 파악, 분석 및 시각화 솔루션 제공 
-3. **사용 기술**
-    * R, Python
-    * Statistical Analysis
-3. **수행 업무** 
-    * DB Data handling
-    * 군정비 성과관리지표인 CWT(사용자 대기기간, Customer Wait Time) 분석을 통한 목표성과 관리 분석
-    * 정비창의 원비 비용 정보를 효율적 파악, 분석을 위한 Dashboard 제작
-4. <b>Git-hub</b>
 
 >  > ---
 
@@ -189,20 +161,6 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * Topic model과 의미연결 분석에 기초한 민원 Classification-logic modeling
 4. **성과** - 서울시 빅데이터 캠퍼스, 한국소비자원의 `Mahcine Learning을 활용한 민원분류 모델`의 기초자료 
 5. <b><a href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P260&bbs_seq=395&ac_type=A2&sch_type=&sch_text=&currentPage=1"> 서울시 빅데이터 캠퍼스</a></b> 
-
->  > ---
-<b>창원시 화재 위험지 예측</b><br>동남지방통계청 공모전
-1. **기간** - 2018. 9 - 2018. 10
-2. **목적** - 화재 위험지 예측을 통한 선제적 관리 시스템 제안 
-3. **사용 기술**
-    * R, QGIS
-    * Kernel Density Estimation, Statistical Analysis(Multiple Regression model), Data Crawling   
-3. **수행 업무** 
-    * 일일소방보고 문서의 화재 정보(위치, 원인, 피해 규모 등) 에 대한 Data Crawling (창원시 기준 집계 통계자료 없음으로 직접 수집함)
-    * 위험요소(건물소재, 건축물 구조, 소방시설 노후도, 소방시설 관리유무, 인근 소방서, 소방차 불가/불편 도로 정보 등)에 대한 Kernel Density Estimation
-    * Overlapping을 통한 화제위험 지도 지도 형성  
-    * Statistical Analysis을 통한 위험 정도 예측 
-4. <b>Git-hub</b>
 
 ---
 ## Lectures
