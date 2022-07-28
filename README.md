@@ -39,7 +39,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 2. **목적** - 회의 등에서 발생하는 음성데이터 문서 생성 및 추출요약/생성요약   
 3. **사용 기술**
     * Python, Tensorflow, Keras 
-    * NLP(Natural Language Processing), NLU(Natural Language Understanding), NLG(Natural Language Generation), LSTM, BERT, Seq2seq, Attention 
+    * NLP(Natural Language Processing), NLU(Natural Language Understanding), NLG(Natural Language Generation), PLM base summarization  
 4. **수행 업무**
     * PM(Project Manger) & TM(Techincal Manager)
     * Word Embedding, NLG & NLU modeling
