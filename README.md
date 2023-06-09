@@ -19,7 +19,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Projects
 **Geo-AI 기반 매출 예측 및 가맹 점주권역 생성 모델 연구/개발** <br> BigValue
-1. **기간** - 2021. 10 ~ 2022. 04
+1. **기간** - 2021. 10 ~ 
 2. **목적** - Geo-AI 기반 점포 매출 예측 및 점주권 생성 모형 연구/개발
 3. **사용 기술**
     * Geometry AI, H-DNN, GNN, pytorch, geopandas
