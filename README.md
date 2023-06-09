@@ -22,7 +22,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 1. **기간** - 2021. 10 ~ 
 2. **목적** - Geo-AI 기반 점포 매출 예측 및 점주권 생성 모형 연구/개발
 3. **사용 기술**
-    * Geometry AI, H-DNN, GNN, pytorch, geopandas
+    * H-DNN, GNN, pytorch, geopandas
 4. **수행 업무**
     * 신규 점포 입점시 잠재시장 예측 및 잠재 점주권역 생성
     * 자연적/사회적 인구 변화를 반영한 미래시점 잠재시장, 잠재 점주권역 생성
