@@ -18,7 +18,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 ---
 
 ## Research Projects
-**Geo-AI 기반 매출 예측 및 가맹 점주권역 생성 모델 고도화 연구/개발** <br> BigValue
+**Geo-AI 고도화 연구/개발** <br> BigValue
 1. **기간** - 2023. 02 ~ 
 2. **목적** - Geo-AI 알고리즘 고도화 
 3. **사용 기술**
