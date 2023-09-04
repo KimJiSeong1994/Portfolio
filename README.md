@@ -17,17 +17,29 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ---
 
-## Projects
+## Research Projects
+**Geo-AI 기반 매출 예측 및 가맹 점주권역 생성 모델 고도화 연구/개발** <br> BigValue
+1. **기간** - 2023. 02 ~ 
+2. **목적** - Geo-AI 알고리즘 고도화 
+3. **사용 기술**
+    * Attention, GNN, SDNE, reconstruction learning, pytorch, geopandas
+4. **수행 업무** 
+    * Attention 기반 주소 매칭 알고리즘 연구
+    * Grid2Vec algorithm 연구 
+    * Graph Embedding base latent vector search algorithm 연구 
+
+>  > ---
+
 **Geo-AI 기반 매출 예측 및 가맹 점주권역 생성 모델 연구/개발** <br> BigValue
-1. **기간** - 2021. 10 ~ 
+1. **기간** - 2021. 10 ~ 2023. 02 
 2. **목적** - Geo-AI 기반 점포 매출 예측 및 점주권 생성 모형 연구/개발
 3. **사용 기술**
-    * H-DNN, GNN, pytorch, geopandas
+    * H-DNN, pytorch, geopandas
 4. **수행 업무**
     * 신규 점포 입점시 잠재시장 예측 및 잠재 점주권역 생성
     * 자연적/사회적 인구 변화를 반영한 미래시점 잠재시장, 잠재 점주권역 생성
     * 경쟁업종 유/출입 등 환경 변화에 따른 점주권 변화 시뮬레이션
-    * 점포 이동시 잠재시장 변화 예측 및 잠재 점주권 생성
+    * AI 기반 신설/이전, 통/폐합 시뮬레이션   
 
 >  > ---
 
