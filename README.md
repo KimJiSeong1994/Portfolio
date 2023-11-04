@@ -13,7 +13,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Interests
 
-`Statistics`, `SNA(Social Network Analysis)`, `NLU(natural language understanding)`, `NLG(natural language generation)`, `Text Summarization`, `Graph Neural Networks`
+`Statistics`, `SNA(Social Network Analysis)`, `Graph Neural Networks`, `NLP (Natural Language Processing)`
 
 ---
 
@@ -27,7 +27,9 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * Attention 기반 주소 매칭 알고리즘 연구
     * Grid2Vec algorithm 연구 
     * Graph Embedding base latent vector search algorithm 연구 
-
+5. **성과**
+   * [특허출원] 자연어 기반의 주소 정제 시스템 및 방법
+   * [특허출원] GEO 인공지능 공간 분석 방법 
 >  > ---
 
 **Geo-AI 기반 매출 예측 및 가맹 점주권역 생성 모델 연구/개발** <br> BigValue
