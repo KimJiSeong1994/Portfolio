@@ -22,7 +22,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 1. **기간** - 2023. 02 ~ 
 2. **목적** - Geo-AI 알고리즘 고도화 
 3. **사용 기술**
-    * Attention, GNN, SDNE, reconstruction learning, pytorch, geopandas
+    * Attention, GNN, reconstruction learning, pytorch, geopandas
 4. **수행 업무** 
     * Attention 기반 주소 매칭 알고리즘 연구
     * Grid2Vec algorithm 연구 
