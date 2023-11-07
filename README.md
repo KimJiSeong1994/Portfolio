@@ -26,7 +26,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 4. **수행 업무** 
     * Attention 기반 주소 매칭 알고리즘 연구
     * Grid2Vec algorithm 연구 
-    * Graph Embedding base latent vector search algorithm 연구 
+    * Graph Embedding 기반 잠재 출점지 탐색 algorithm 연구 
 5. **성과**
    * [특허출원] 자연어 기반의 주소 정제 시스템 및 방법
    * [특허출원] GEO 인공지능 공간 분석 방법 
