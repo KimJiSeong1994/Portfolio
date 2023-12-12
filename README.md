@@ -13,7 +13,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Interests
 
-`Statistics`, `SNA(Social Network Analysis)`, `Graph Neural Networks`, `NLP (Natural Language Processing)`, `Geometric Artificial Intelligence`
+`Statistics`, `SNA(Social Network Analysis)`, `Graph Neural Networks`, `NLP (Natural Language Processing)`, `Geometric AI`
 
 ---
 
