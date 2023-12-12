@@ -29,7 +29,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * Graph Embedding 기반 잠재 출점지 탐색 algorithm 연구 
 5. **성과**
    * [특허출원] 자연어 기반의 주소 정제 시스템 및 방법
-   * [특허출원] GEO 인공지능 공간 분석 방법 
+   * [특허출원] GEO 인공지능 공간 분석 방법
 >  > ---
 
 **Geo-AI 기반 매출 예측 및 가맹 점주권역 생성 모델 연구/개발** <br> BigValue
@@ -42,7 +42,8 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * 자연적/사회적 인구 변화를 반영한 미래시점 잠재시장, 잠재 점주권역 생성
     * 경쟁업종 유/출입 등 환경 변화에 따른 점주권 변화 시뮬레이션
     * AI 기반 신설/이전, 통/폐합 시뮬레이션   
-
+5. **성과** - `LOTTE LPOINT(POC)`, `NH상호금융`, `MG새마을금고`, `IBK기업은행(POC)`, `NIA - 빅데이터플랫폼기반분석서비스`
+    
 >  > ---
 
 **Text summarization** <br> Kyungnam Univ. BigData Center
