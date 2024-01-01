@@ -8,7 +8,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 * **AI Researcher@BigValue** : 2021. 06 - 현재
 * **DataAnalyst@KyungnamUniv. BigData center** : 2019. 9 - 2021. 06
 * **Intern@서울시 빅데이터 캠퍼스** : 2018. 7 - 2018. 8, 2019. 1 - 2019. 2
-* **Intern@ACORN MARKETING & RESEARCH CONSULTANTS(HK) LIMITED, KOREA BRANCH** : 2018. 1 - 2018. 2
+* **Intern@ACORN MARKETING & RESEARCH CONSULTANTS(HK) LIMITED, KOREA BRANCH** : 2018. 1-2018. 2
 * **Intern@서울 혁신센터 사회혁신 리서치랩** : 2017. 7 - 2017. 8
 
 ## Interests
