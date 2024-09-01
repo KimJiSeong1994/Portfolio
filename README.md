@@ -18,15 +18,31 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 ---
 
 ## Research Projects
+**공간 데이터 기반 LLM 연구 및 구축** <br> BigValue
+1. **기간** - 2024. 06 ~ 
+
+**Graph base vehicle control** <br> BigValue
+1. **기간** - 2024. 01 ~ 2024. 06
+2. **목적** - GPS 정보 기반 차량 이동 관제 
+3. **사용 기술**
+    * GAT, GraphML, GraphDB, vehicle GPS
+4. **수행 업무** 
+    * Graph Embedding 등록 차량 이동 관제  
+    * GAT, GraphML algorithm 기반 차량 이동 맥락(context) embedding    
+    * Graph statistics 추정 
+5. **성과**
+   * 농림축산검역본부 - 축산 차량 이동에 따른 질병 전파 데이터 분석 모델 연구
+>  > ---
+
 **Geo-AI 고도화 연구/개발** <br> BigValue
-1. **기간** - 2023. 02 ~ 
+1. **기간** - 2023. 02 ~ 2023. 12
 2. **목적** - Geo-AI 알고리즘 고도화 
 3. **사용 기술**
     * Attention, GNN, reconstruction learning, pytorch, geopandas
 4. **수행 업무** 
-    * Attention 기반 주소 매칭 알고리즘 연구
-    * Grid2Vec algorithm 연구 
     * Graph Embedding 기반 잠재 출점지 탐색 algorithm 연구 
+    * Grid2Vec algorithm 기반 유사 부지 탐색 
+    * LLM 기반 주소 매칭 알고리즘 연구
 5. **성과**
    * [특허출원] 자연어 기반의 주소 정제 시스템 및 방법
    * [특허출원] GEO 인공지능 공간 분석 방법
