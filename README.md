@@ -13,13 +13,14 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Interests
 
-`Statistics`, `SNA(Social Network Analysis)`, `Graph Neural Networks`, `NLP (Natural Language Processing)`, `Geometric AI`
+`Statistics`, `SNA(Social Network Analysis)`, `Graph Neural Networks`, `NLP (Natural Language Processing)`, `Geospatial AI`
 
 ---
 
 ## Research Projects
 **공간 데이터 기반 LLM 연구 및 구축** <br> BigValue
 1. **기간** - 2024. 06 ~ 
+>  > ---
 
 **Graph base vehicle control** <br> BigValue
 1. **기간** - 2024. 01 ~ 2024. 06
