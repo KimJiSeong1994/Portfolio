@@ -213,6 +213,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     * [빅 데이터 분석과 R 프로그래밍(기초Ⅱ)](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/%EB%B9%85%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B3%BC%20R%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(%EA%B8%B0%EC%B4%88%E2%85%A1)%20-%20POSTECH.pdf)
 * **etc.**
      * [Learning Data Science With Kaggle Practice - Edwith](https://github.com/KimJiSeong1994/Portfolio/blob/master/Certificates/Learning%20Data%20Science%20With%20Kaggle%20Practice.pdf)
+
 ---
 
 ## Activity
