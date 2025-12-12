@@ -6,7 +6,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 ## Careers
 * **AI Researcher@BigValue** : 2021. 06 - 현재
-* **DataAnalyst@KyungnamUniv. BigData center** : 2019. 9 - 2021. 06
+* **DataAnalyst@Kyungnam BigData center** : 2019. 9 - 2021. 06
 * **Intern@서울시 빅데이터 캠퍼스** : 2018. 7 - 2018. 8, 2019. 1 - 2019. 2
 * **Intern@ACORN MARKETING & RESEARCH CONSULTANTS(HK) LIMITED, KOREA BRANCH** : 2018. 1-2018. 2
 * **Intern@서울 혁신센터 사회혁신 리서치랩** : 2017. 7 - 2017. 8
@@ -63,7 +63,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
     
 >  > ---
 
-**Text summarization** <br> Kyungnam Univ. BigData Center
+**Text summarization** <br> Kyungnam BigData Center
 1. **기간** - 2020. 10 ~ 2021. 06
 2. **목적** - 회의 등에서 발생하는 음성데이터 문서 생성 및 추출요약/생성요약   
 3. **사용 기술**
@@ -76,7 +76,7 @@ Repository contained portfolio of data anlaysis, machine learning & deep learnin
 
 >  > ---
 
-**소상공인을 위한 생활밀착형 챗봇 개발** <br> Kyungnam Univ. BigData center
+**소상공인을 위한 생활밀착형 챗봇 개발** <br> Kyungnam BigData center
 1. **기간** - 2020. 08 ~ 2020. 12. 
 2. **목적** - 사회적 경제 순환 시스템 지원을 위한 커뮤니티 플랫폼 챗봇개발 및 커뮤니티 데이터를 통한 갈등 분석
 3. **사용 기술** 
